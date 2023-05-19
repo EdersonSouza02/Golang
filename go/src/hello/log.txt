@@ -1,0 +1,9 @@
+18/05/2023 23:01:07 - https://www.alura.com.br/ - online: true
+18/05/2023 23:01:07 - https://www.amazon.com.br - online: true
+18/05/2023 23:01:08 - https://www.youtube.com/ - online: true
+18/05/2023 23:01:13 - https://www.alura.com.br/ - online: true
+18/05/2023 23:01:13 - https://www.amazon.com.br - online: true
+18/05/2023 23:01:13 - https://www.youtube.com/ - online: true
+18/05/2023 23:01:18 - https://www.alura.com.br/ - online: true
+18/05/2023 23:01:18 - https://www.amazon.com.br - online: true
+18/05/2023 23:01:18 - https://www.youtube.com/ - online: true
